@@ -2,7 +2,7 @@
 #encoding=utf-8
 
 
-__author__ = 'Ethon Chen'
+__author__ = 'Ethan Chen'
 
 import asyncio, logging
 import aiomysql
